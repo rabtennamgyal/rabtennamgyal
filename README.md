@@ -4,17 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
-<img src='./Assets/banner.png'>
+<!-- <img src='./Assets/banner.png'> -->
 
 <div class='social'>
    <a href='https://www.linkedin.com/in/rabten-samphel-53171a1bb/' target='_blank'>
@@ -35,3 +28,11 @@ Hi there 👋,
 <p>
 I'm Rabten Namgyal Samphel, an aspiring Front-End Developer. I love working with JavaScript, Sass (CSS) and React.
 </p>
+
+<div class='details'>
+👨‍💻 About me: 
+
+- 🔭 I’m currently working on my personal portfolio.
+- 🌱 I’m currently learning React and Typescript.
+- 📫 How to reach me: email: rabten@protonmail.com [![Twiiter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rabtensamphel)
+</div>
