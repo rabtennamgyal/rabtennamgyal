@@ -48,7 +48,7 @@ I'm Rabten Namgyal Samphel, an aspiring Front-End Developer. I love working with
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'
   title="typescript" alt='typescript' width='40' height='40'>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <imgs src='https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg'
+  <img src='https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg'
   title="Jest" alt='Jest' width='40' height='40'>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
