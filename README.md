@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Rabten's GitHub Banner](./Assets/banner.png)
+
+<img src='./Assets/banner.png'>
 
 Hi there 👋,
 
