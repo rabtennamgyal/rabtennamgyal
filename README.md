@@ -57,4 +57,4 @@ I'm Rabten Namgyal Samphel, an aspiring Front-End Developer. I love working with
 🔥 My Stats:
 </h1>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rabtennamgyale&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
