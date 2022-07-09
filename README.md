@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=rabtennamgyal&style=flat-square&color=blue" alt=""/>
 
+<h1>
 Hi there 👋,
+</h1>
 
-I'm Rabten Namgyal Samphel. I love working with JavaScript, Sass (CSS) and React. Aspiring Front-End Dev.
-
+<p>
+I'm Rabten Namgyal Samphel, an aspiring Front-End Developer. I love working with JavaScript, Sass (CSS) and React.
+</p>
