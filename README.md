@@ -30,12 +30,21 @@ I'm Rabten Namgyal Samphel, an aspiring Front-End Developer. I love working with
 </p>
 
 <div class='details'>
-👨‍💻 About me: 
+   <h1>
+   👨‍💻 About me: 
+   </h1>
 
+   <p>
+   - 🔭 I’m currently working on my personal portfolio.
+   </p>
 
-- 🔭 I’m currently working on my personal portfolio.
-- 🌱 I’m currently learning React and Typescript.
-- 📫 How to reach me: rabten@protonmail.com or @rabtensamphel on twitter.
+   <p>
+   - 🌱 I’m currently learning React and Typescript.
+   </p>
+
+   <p>
+   - 📫 How to reach me: rabten@protonmail.com or @rabtensamphel on twitter.
+   </p>
 </div>
 
 <div class='skills'>
