@@ -2,9 +2,14 @@
 
 - 🌱 I’m currently learning: TypeScript
 - 📫 you can reach me on : 
-<a href='' target='_blank'>
-<img src='./img/linkedin.png' alt='linkedImg' style='height: 5rem'/>
+<a href='https://www.linkedin.com/in/rabten-samphel-53171a1bb/' target='_blank'>
+<img src='./img/linkedin.png' alt='linkedImg' style='height: 2rem'/>
 </a>
+
+<a href='https://twitter.com/rabtensamphel' target='_blank'>
+<img src='./img/twitter.png' alt='twitterImg' style='height: 2rem'/>
+</a>
+
 
 
 
