@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://twitter.com/rabtensamphel">
-   <img src="![twitter](https://user-images.githubusercontent.com/76475970/192119319-d678d0dc-6e5d-482a-9969-cb166f965393.svg)" />
+   <img src="![linkedin (1)](https://user-images.githubusercontent.com/76475970/192119643-a88b0441-222a-4f55-bc07-35c9700e5ffc.png)" />
 </a>
 
 
