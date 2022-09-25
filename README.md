@@ -11,7 +11,4 @@
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   
-[![Rabten's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabtennamgyal)](https://github.com/rabtennamgyal/github-readme-stats?username=rabtennamgyal&show_icons=true&theme=radical)
-
-
-[![Rabten's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rabten)](https://github.com/rabtennamgyal/github-readme-stats)
+[![Rabten's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabtennamgyal&show_icons=true)](https://github.com/rabtennamgyal/github-readme-stats)
