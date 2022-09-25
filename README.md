@@ -1,9 +1,9 @@
 # Hello World!
-### My name is Rabten Namgyal Samphel, I am an aspiring Front-End Developer who is proficient in HTML, CSS, Sass, JavaScript and React.
+### My name is Rabten Namgyal Samphel. I am an aspiring Front-End Developer who is proficient in HTML, CSS, Sass, JavaScript and React.
 
 - 💻 Check out: [my portfolio](https://dulcet-custard-efe2e2.netlify.app/)
 - 🌱 I’m currently learning: TypeScript
-- 📭 [LinkedIn](https://www.linkedin.com/in/rabten-samphel-53171a1bb/) & [Twiiter](https://twitter.com/rabtensamphel)
+- 📭 [LinkedIn](https://www.linkedin.com/in/rabten-samphel-53171a1bb/) & [Twitter](https://twitter.com/rabtensamphel)
 
      
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabtennamgyal&theme=soft-green)
