@@ -2,8 +2,7 @@
 ##  My name is Rabten Namgyal Samphel, I am an aspiring Front-End Developers who is proficient with HTML, CSS, Sass, JavaScript and React.
 
 - 🌱 I’m currently learning: TypeScript
-- 📭 [(https://user-images.githubusercontent.com/76475970/192125786-1d1ee168-58ea-41b1-b771-9080501167f3.png)][https://github.com/rabtennamgyal]
-
+- 📭 [![LinkedIn](https://user-images.githubusercontent.com/76475970/192125786-1d1ee168-58ea-41b1-b771-9080501167f3.png)](https://github.com/rabtennamgyal)
 
 
 <!-- -  !()[<a href='https://www.linkedin.com/in/rabten-samphel-53171a1bb/' target='_blank'>
