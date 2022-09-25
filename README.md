@@ -8,3 +8,4 @@
 
      
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabtennamgyal&theme=soft-green)
+[![Rabten's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabtennamgyal)](https://github.com/rabtennamgyal/github-readme-stats)
