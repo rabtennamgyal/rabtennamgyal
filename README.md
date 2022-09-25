@@ -2,16 +2,8 @@
 ##  My name is Rabten Namgyal Samphel, I am an aspiring Front-End Developers who is proficient with HTML, CSS, Sass, JavaScript and React.
 
 - 🌱 I’m currently learning: TypeScript
-- 📭 [![LinkedIn](https://user-images.githubusercontent.com/76475970/192125909-694a6c75-d2ba-48c6-a4b9-416e48667364.png)](https://github.com/rabtennamgyal)
-
-
-<!-- -  !()[<a href='https://www.linkedin.com/in/rabten-samphel-53171a1bb/' target='_blank'>
-<img src='./img/linkedin.png' alt='linkedImg' style='display: inline-block; height: 2rem; margin: 10px'/>
-</a>
-] -->
-<!-- <a href='https://twitter.com/rabtensamphel' target='_blank'>
-<img src='./img/twitter.png' alt='twitterImg' style='display: inline-block; height: 2rem; margin: 10px'/>
-</a> -->
+- 📭 [![LinkedIn](https://user-images.githubusercontent.com/76475970/192125971-58ca5064-affa-4598-bf84-324a3e303034.png)](https://github.com/rabtennamgyal)
+     [![Twitter](https://user-images.githubusercontent.com/76475970/192126014-4159252a-103b-4e7c-83b2-172cade30331.png)][https://twitter.com/rabtensamphel]
 
 
 
