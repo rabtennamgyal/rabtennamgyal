@@ -10,4 +10,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabtennamgyal&theme=soft-green)
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-[![Rabten's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabtennamgyal)](https://github.com/rabtennamgyal/github-readme-stats)
+  
+[![Rabten's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabtennamgyal)](https://github.com/rabtennamgyal/github-readme-stats&theme=radical)
