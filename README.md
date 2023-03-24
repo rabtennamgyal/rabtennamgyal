@@ -3,7 +3,7 @@
 
 - 💻 Check out: [my portfolio](https://rabtennamgyal.github.io/TOP-Project-personal-portfolio/dist/index.html)
 - 🌱 I’m currently: expanding my knowledge of React.
-- 📭 Contact me through: [LinkedIn](https://www.linkedin.com/in/rabten-samphel-53171a1bb/) & [Twitter](https://twitter.com/rabtensamphel)
+- 📭 Contact me through: [LinkedIn](https://www.linkedin.com/in/rabten-samphel-53171a1bb/) & [Email](rabtendev@gmail.com)
      
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabtennamgyal&theme=soft-green)
   
