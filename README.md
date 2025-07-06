@@ -1,5 +1,5 @@
 # Hello World !!!
-### My name is Rabten Samphel. I am an aspiring Front-End Developer who is proficient in HTML, CSS, Sass, JavaScript and React.
+### My name is Rabten Samphel. I am currently a student at LaGuardia Community College studying Political Science. 
 
 - 💻 Check out: [my portfolio](https://rabtennamgyal.github.io/TOP-Project-personal-portfolio/dist/index.html)
 - 🌱 I’m currently: learning data structures & algos plus react. 
