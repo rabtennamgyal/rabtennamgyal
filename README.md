@@ -1,5 +1,5 @@
 # Hello World !!!
-### My name is Rabten Samphel. I am currently a student at LaGuardia Community College studying Political Science. 
+### My name is Rabten Samphel. I am currently a student at LaGuardia Community College doing my Nursing Degree. 
 
 - 💻 Check out: [my portfolio](https://rabtennamgyal.github.io/TOP-Project-personal-portfolio/dist/index.html)
 - 🌱 I’m currently: learning data structures & algos plus react. 
